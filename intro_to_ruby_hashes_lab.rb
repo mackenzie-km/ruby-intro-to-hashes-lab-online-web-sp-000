@@ -12,6 +12,7 @@ def monopoly
 	monopoly = {}
   monopoly[:railroads] = "no"
 end
+
 def monopoly_with_second_tier
 	
 end
