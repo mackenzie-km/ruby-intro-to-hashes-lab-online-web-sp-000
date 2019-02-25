@@ -11,9 +11,8 @@ require "pry"
 def monopoly
 	monopoly = {}
   monopoly[:railroads] = {}
-  binding.pry
 end
-
+  binding.pry
 def monopoly_with_second_tier
 	
 end
